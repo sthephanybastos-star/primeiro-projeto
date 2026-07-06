@@ -40,3 +40,23 @@ meu primeiro site
 <p>Por: Marcelo Paludetto</p>
 <p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação e curiosidades da área de tecnologia.</p>
 </main>
+<h1>Título principal</h1>
+<h2>Subtítulo</h2>
+<h3>Outro nível de título</h3>
+<p>Este é um parágrafo de texto.</p>
+<p>Podemos escrever quantos parágrafos quisermos.</p>
+<a href="https://www.wikipedia.org">Acessar o site</a>
+<img src="imagem.png" alt="Descrição da imagem">
+<ul>
+<li>Computador</li>
+<li>Teclado</li>
+<li>Mouse</li>
+</ul>
+<ol>
+<li>Primeiro passo</li>
+<li>Segundo passo</li>
+<li>Terceiro passo</li>
+</ol>
+<div>
+<p>Este conteúdo está dentro de uma divisão.</p>
+</div>
